@@ -46,7 +46,7 @@ export const data = {
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.google.com/maps?q=Villa%2BMaman%2Bdesa%2BParakan%2BJl.%2BDesa%2BCiomas%2BNo.35%2C%2BBogor%2BKabupaten%2C%2B16610%2C%2BID&sll=-6.60991877,106.77254922',
+        map: 'google.com',
     },
 
     galeri: [
