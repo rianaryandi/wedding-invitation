@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nindia Rahma Oktaviani',
+            child: 'Putri ke-3',
+            father: 'Yulianto',
+            mother: 'Yuliani',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Angga Dermawan',
+            child: 'Putra Pertama',
+            father: 'Asmir',
+            mother: 'Alm Ida Rosida',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
+            year: '2025',
+            month: 'September',
+            date: '7',
             day: 'Kamis',
             hours: {
-                start: '08.00',
+                start: '09.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
+            year: '2025',
+            month: 'September',
+            date: '7',
             day: 'Kamis',
             hours: {
-                start: '11.00',
+                start: '09.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Jl. Desa Ciomas No.35,Kab. Bogor, 16610'
     },
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.google.com/maps?q=Villa%2BMaman%2Bdesa%2BParakan%2BJl.%2BDesa%2BCiomas%2BNo.35%2C%2BBogor%2BKabupaten%2C%2B16610%2C%2BID&sll=-6.60991877,106.77254922',
     },
 
     galeri: [
